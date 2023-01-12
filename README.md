@@ -3,7 +3,7 @@
 - 🎓 Formado em Engenharia da Computação pelo Centro Universitário UNA 
 - 🌱 Atualmente estudando Python, SQL, HTML5 e CSS
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragoncalves)](https://github.com/ragoncalves/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ragoncalves&theme=dark)](https://github.com/ragoncalves/github-readme-stats)
 ##
 
 <a href = "https://www.linkedin.com/in/renatoaugustog/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

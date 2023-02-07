@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🎓 Formado em Engenharia da Computação pelo Centro Universitário UNA 
-- 🌱 Atualmente estudando Python, SQL, HTML5 e CSS
+- 🌱 Atualmente estudando Python, SQL, HTML e CSS
 ##
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ragoncalves&theme=dark)](https://github.com/ragoncalves/github-readme-stats)
 ##

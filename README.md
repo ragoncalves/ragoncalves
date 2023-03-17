@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🎓 Formado em Engenharia da Computação pelo Centro Universitário UNA 
+- 🎓 Formado em Engenharia da Computação pelo Centro Universitário UNA e cursando Pós Graduação em Inteligência Artificial e Aprendizado de Máquina na PUC Minas
 - 🌱 Atualmente estudando Python, MySQL, Django, Flask, HTML5, CSS3, JavaScript e Bootstrap
 ##
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ragoncalves&theme=dark)](https://github.com/ragoncalves/github-readme-stats)

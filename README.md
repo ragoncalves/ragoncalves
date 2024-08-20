@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🎓 Bacharel em Engenharia da Computação pelo Centro Universitário UNA e cursando Pós Graduação em Inteligência Artificial e Aprendizado de Máquina na PUC Minas
+- 🎓 Bacharel em Engenharia da Computação pelo Centro Universitário UNA e Pós Graduado em Inteligência Artificial e Aprendizado de Máquina na PUC Minas
 
 ##
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ragoncalves&theme=dark)](https://github.com/ragoncalves/github-readme-stats)
